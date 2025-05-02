@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VINAYAKASAI-6701
+- 👀 I’m interested in Backend development, DSA, Android development, and solving complex coding problems.
+- 🌱 I’m currently learning Advanced DSA algorithms and improving my skills in Android app development.
+- 💞️ I’m looking to collaborate on Open-source projects, Backend APIs, Android apps, and solving DSA challenges.
+- 📫 How to reach me: You can email me at vinaysai6701@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once solved 100 DSA problems in a week!
